@@ -1,8 +1,0 @@
-Buen día, profe Carlos.
-
-Para organizar nuestro cronograma de actividades, hemos decidido utilizar la herramient gratuita taiga.io
-taiga.io es un gestor de proyectos scrum, en donde usted encontrará especificadas las actividades que tenemos
-programadas para entregar.
-
-Link de nuestro cronograma de actividades en taiga (Guest role):
-https://tree.taiga.io/project/divdev-app_nomina/taskboard/sprint-1-base-de-datos-entidad-empleado-conexiones
