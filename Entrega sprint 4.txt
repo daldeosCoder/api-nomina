@@ -1,0 +1,12 @@
+ Buen dia, profe Carlos. Sucede que los archivos de la carpeta node_modules
+ 
+ en nuestro front-end pesan más del límite que soporta gitHub (26mb). Por ello,
+
+ resolvimos con los compañeros realizar la entrega a través de enlace a carpeta
+
+ de google drive. Nos excusamos y quedamos atentos a sus comentarios.
+
+
+ Enlace a nuestro proyecto front abajo (ya consume datos de una api-Rest)
+
+ https://drive.google.com/drive/folders/1_q2gPeSTBhfdHttVoWQyrFL0lPQQs2Qn?usp=sharing
